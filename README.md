@@ -1,6 +1,6 @@
  **1. 登陆** 
 
- **URL：/member/100/login** 
+ **URL：/member/login** 
 
  **Method：POST** 
 
@@ -29,7 +29,7 @@
 
  **2. 新增快捷导航菜单**
 
- **URL：/menu/100/update** 
+ **URL：/menu/updateNavigation** 
 
  **Method：POST** 
 
@@ -51,7 +51,7 @@
 
  **3. 新增钱包币种**
 
- **URL：/money/100/addCurrency** 
+ **URL：/money/addCurrency** 
 
  **Method：POST** 
 
